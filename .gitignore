@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & artifacts (large files not pushed to Git)
+data/
+artifacts/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+
+# Local database
+*.db
+
+# Environment variables
+.env
